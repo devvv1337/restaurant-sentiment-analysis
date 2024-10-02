@@ -18,7 +18,7 @@ This notebook performs sentiment analysis on restaurant reviews using pre-traine
 
 ## Workflow
 
-![Workflow diagram](https://i.imgur.com/ixAw4Uo.png)
+![Workflow diagram](https://i.imgur.com/O6lo4mS.png)
 
 
 ## Usage
